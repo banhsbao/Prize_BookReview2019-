@@ -1,6 +1,6 @@
 ### [Book Review 2019]
 
-<img src="file:///C:/Users/Admin/Desktop/BookReview/Prize_BookReview2019.jpg" title="" alt="" width="330">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/C6LJVIX" data-context="false" ><a href="//imgur.com/a/C6LJVIX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 > Là cuộc thi dành cho các bạn sinh viên đại học FPT. Review về cuốn sách tùy thích, nhằm mục tiêu khuyến khích sinh viên đọc sách.
 
